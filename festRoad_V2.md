@@ -22,8 +22,8 @@ Notre site FestRoad à l'intention de répondre à cette problématique, en impl
 - dashboard admin (principalement pour valider les festivals et gérer le contenu du site).
 
 - compte festivaliers :
- - possiblité de stocker en favoris les festivals 
- - possiblité de créer des groupes de festivals, afin de simuler plusieurs idées de road trip
+  - possiblité de stocker en favoris les festivals 
+  - possiblité de créer des groupes de festivals, afin de simuler plusieurs idées de road trip
  
 - comptes organisateurs de festivals (soumettre les infos relatifs aux festochs).
 
